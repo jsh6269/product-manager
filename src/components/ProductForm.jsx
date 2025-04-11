@@ -69,10 +69,7 @@ function ProductForm({ onAdd }) {
         placeholder="Category"
         className="border p-1 w-full"
       />
-      <button
-        type="submit"
-        className="bg-blue-500 text-white px-4 py-1 rounded"
-      >
+      <button type="submit" className="bg-[#dee2e6] px-4 py-1 rounded">
         Add Product
       </button>
     </form>
